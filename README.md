@@ -22,4 +22,5 @@ Because Windows is strict. It will silently block any attempt to change DNS sett
 *   **Privacy:** This tool is completely local. It does not send logs, IP addresses, or Wi-Fi passwords to external servers. 
 *   **Usage:** It is entirely free to use. Do not reverse engineer the executable to re-sell it as your own. The author is not responsible for any system misconfigurations.
 *   **Credits:** This project bundles `iperf3` (ESnet / BSD License) and `librespeed-cli` (GNU License). Full credit for the benchmarking engines goes to their respective open-source communities.
-If you need tech support, want to report a bug, or just want to buy me a coffee, hit me up at: **adonis.ploae@yahoo.com**.
+*   
+*  If you need tech support, want to report a bug, or just want to buy me a coffee, hit me up at: **adonis.ploae@yahoo.com**.
