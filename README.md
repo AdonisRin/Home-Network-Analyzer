@@ -9,9 +9,11 @@ I built this tool because I got tired of digging through Windows menus just to f
 
 *   **Network Scanner:** Pings your local IP range and checks ARP tables to see what devices are online.
 *   **Wi-Fi Passwords:** Just runs a native Windows command to read the passwords you ALREADY saved on your PC. It is not a brute-force or hacking tool.
-*   **Gaming Optimizer:** Modifies the Windows TCP/IP registry (specifically `TCPNoDelay` and `TcpAckFrequency`). Normally, Windows bundles packets together to save bandwidth. This forces Windows to stop buffering and send gaming packets instantly. It won't fix a bad ISP connection, but it removes artificial system latency.
+*   **Gaming Optimizer:** Modifies the Windows TCP/IP registry (specifically `TCPNoDelay` and `TcpAckFrequency`). Normally, Windows bundles packets together to save bandwidth. This forces Windows to stop buffering and send gaming packets instantly.
 *   **DNS Switcher:** Quickly swaps your network adapter's DNS to Cloudflare, Google, etc.
 *   **Speedtest & iperf3:** Uses bundled `librespeed-cli` for internet speed testing and `iperf3` for testing your internal LAN capacity (router and cables).
+*   **VPN Manager:** A VPN  hides your real IP address, so websites think you are browsing from another country. This protects your privacy on public Wi-Fi and helps you bypass regional restrictions.
+*   **Shield & Site Tester:** Think of this as a system-wide adblocker. It blocks over 98,000 known tracking and advertising servers by telling Windows to simply ignore them. Because it works at the operating system level, it blocks ads across all your browsers and apps without you needing to install any browser extensions. You can turn it on or off with a single click.
 
 ## Why does it need Admin Rights?
 
