@@ -3,6 +3,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Price](https://img.shields.io/badge/Price-100%25%20Free-brightgreen.svg)
 
+**Alternative Mirror:** If you cannot download directly from Releases, you can download it via [MEGA](https://mega.nz/file/lYdFDCjD#RtChvI9OCtztJwIAaG0lplV92YKTIQyf1v3RP9Q0dME).
+
+
 I built this tool because I got tired of digging through Windows menus just to flush my DNS, check my local ping, or remember an old Wi-Fi password. It's a straightforward diagnostic utility for Windows.
 
 ## What it actually does
