@@ -26,6 +26,5 @@ Because Windows is strict. It will silently block any attempt to change DNS sett
 
 * **Privacy:** This tool is completely local. It does not send logs, IP addresses, or Wi-Fi passwords to external servers. 
 * **Benchmarking:** Bundles `iperf3` (ESnet / BSD License) and `librespeed-cli` (GNU License).
-* **AdBlock & Shield Lists:** Powered by open-source blocklists from [StevenBlack](https://github.com/StevenBlack/hosts), [AdAway](https://adaway.org/), and [Peter Lowe (yoyo.org)](https://pgl.yoyo.org/).
 * **VPN & Proxy Network:** Public relay infrastructure powered by the [University of Tsukuba's VPN Gate Academic Project](https://www.vpngate.net/), [ProxyScrape](https://proxyscrape.com/), and [ipify](https://www.ipify.org/).
 * If you need tech support, want to report a bug, or just want to buy me a coffee, hit me up at: **adonis.ploae@yahoo.com**.
